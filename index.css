@@ -1,3 +1,62 @@
+.praticr-navbar {
+  border-radius: 0px;
+}
+
+.praticr-glyphicon-margin {
+  margin-right: 8px;
+}
+
+.praticr-centered {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+#praticr-posts {
+  display: flex;
+  flex-direction: column;
+}
+
+.praticr-post {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.praticr-post-meta {
+    font-size: 14px;
+    color: #828282;
+}
+
+.praticr-button {
+  font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  padding: 4px 16px;
+  border: 2px solid #4CAF50;
+  border-radius: 32px;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+    transition: 0.4s all ease
+}
+
+a:visited {
+    border-color: #357a38;
+    color: #357a38
+}
+
+a:hover {
+    color: #111;
+    border-color: #111
+}
+
 body {
-  background: yellow;
+  font-family: "Source Sans Pro",Helvetica,Arial,sans-serif
 }
