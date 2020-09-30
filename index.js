@@ -1,5 +1,5 @@
 $(function() {
-    window.location.replace("https://pratickroy.github.io/pratick-roy-website/");
+    //window.location.replace("https://pratickroy.github.io/pratick-roy-website/");
 });
 
 function legacy_js() {
